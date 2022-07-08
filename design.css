@@ -279,7 +279,7 @@ h3 {
 
 
 @media only screen and (max-width: 300px) {
-  .ads .adsvid {font-size: 11px}
+  .ads .lg .adsvid .mycc .navigation {font-size: 11px}
 }
 
 @media only screen and (max-width: 300px) {
