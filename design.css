@@ -279,11 +279,15 @@ h3 {
 
 
 @media only screen and (max-width: 300px) {
-  .ads .lg .adsvid .mycc .navigation {font-size: 11px}
+  .lg .mycc .navigation {font-size: 11px}
 }
 
 @media only screen and (max-width: 300px) {
   .boody .textcontent{font-size: 11px}
+}
+
+@media only screen and (max-width:auto) {
+  .ads .adsvid{font-size: 11px}
 }
 
 
